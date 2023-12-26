@@ -1,0 +1,3 @@
+interface  iTotalBayar {
+    double calculateTotal();  
+  }
